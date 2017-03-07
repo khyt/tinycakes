@@ -1,0 +1,75 @@
+.navbar {
+  background-color: #e5a4f2;
+  color: #003366;
+}
+
+body {
+  margin: 0;
+  background-image: url("images/symphony.png");
+  background-size: 80px;
+  background-color: #d4af37;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #000006;
+}
+
+.text-right {
+  margin: 60px;
+  background-color: #48d1cc;
+  text-align: center;
+}
+
+.media-left {
+  float: right;
+ }
+
+h2 { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  color: #333333;
+}
+
+h3 {
+  font-family:'Open Sans', sans-serif;
+  color: #666666;
+  font-style: bold;
+}
+
+p {
+  color: #003366;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+}
+
+#about {
+    padding-bottom: 10px;
+}
+
+#history {
+    padding-bottom: 10px;
+}
+
+#store {
+    margin-bottom: 10px;
+}
+
+#contact {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.gallery-element {
+  float: left;
+  margin: 5px;
+}
+
+.gallery-element img {
+    width: 150px;
+}
+
+#about #history #store #footer {
+  padding-top: 20px;
+}
